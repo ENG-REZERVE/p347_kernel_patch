@@ -1,0 +1,1 @@
+obj-$(CONFIG_VIDEO_AD9889B) += ad9889b.o
